@@ -8,20 +8,14 @@ body {
 }
 
 .center-box {
-  width: 600px;     /* makes it long */
+  width: 600px;
   height: 200px;
-  border: 3px solid black;
-  border-radius: 10px;
 
   display: flex;
   justify-content: center;
   align-items: center;
 
-  font-size: 20px;
-}
-
-p {
-  font: Inter
+  font-size: 100px;
 }
 
 .top-banner {
