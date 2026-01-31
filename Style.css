@@ -4,6 +4,10 @@ body {
   padding-top: 70px; /* same as banner height */
 }
 
+p {
+  font: Inter
+}
+
 .top-banner {
   position: fixed;
   top: 0;
