@@ -1,9 +1,13 @@
 body {
-  margin: 0; /* removes default browser spacing */
+  margin: 0;
+  padding-top: 80px;
 }
 
 .top-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: 80px;      /* height of the square/rectangle */
+  height: 80px;
   background-color: #333;
 }
