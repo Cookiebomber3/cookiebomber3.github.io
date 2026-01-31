@@ -27,8 +27,8 @@ body {
 }
 
 .square {
-    width: 100px;            /* Set width */
-    height: 100px;           /* Set height equal to width for a perfect square */
+    width: 70vh;            /* Set width */
+    height: 70vh;           /* Set height equal to width for a perfect square */
     background-color: blue;
 }
 
